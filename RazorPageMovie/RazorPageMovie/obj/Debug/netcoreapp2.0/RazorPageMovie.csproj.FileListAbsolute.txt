@@ -1,0 +1,11 @@
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.deps.json
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.runtimeconfig.json
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.runtimeconfig.dev.json
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.dll
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\bin\Debug\netcoreapp2.0\RazorPageMovie.pdb
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.csprojAssemblyReference.cache
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.AssemblyInfoInputs.cache
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.AssemblyInfo.cs
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.dll
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.pdb
+E:\Work Projects\Learning Lab\RazorPageMovie\RazorPageMovie\obj\Debug\netcoreapp2.0\RazorPageMovie.csproj.CoreCompileInputs.cache
