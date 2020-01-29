@@ -1,0 +1,7 @@
+E:\Projects\Learning\C#Fundamentals\Testability\Testability.UnitTest\obj\Debug\Testability.UnitTest.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\C#Fundamentals\Testability\Testability.UnitTest\bin\Debug\Testability.UnitTest.dll
+E:\Projects\Learning\C#Fundamentals\Testability\Testability.UnitTest\bin\Debug\Testability.UnitTest.pdb
+E:\Projects\Learning\C#Fundamentals\Testability\Testability.UnitTest\bin\Debug\Testability.exe
+E:\Projects\Learning\C#Fundamentals\Testability\Testability.UnitTest\bin\Debug\Testability.pdb
+E:\Projects\Learning\C#Fundamentals\Testability\Testability.UnitTest\obj\Debug\Testability.UnitTest.dll
+E:\Projects\Learning\C#Fundamentals\Testability\Testability.UnitTest\obj\Debug\Testability.UnitTest.pdb

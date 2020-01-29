@@ -1,0 +1,18 @@
+E:\Projects\Learning\CAdvanced\MetaData\bin\Debug\MetaData.exe.config
+E:\Projects\Learning\CAdvanced\MetaData\bin\Debug\MetaData.exe
+E:\Projects\Learning\CAdvanced\MetaData\bin\Debug\MetaData.pdb
+E:\Projects\Learning\CAdvanced\MetaData\obj\Debug\MetaData.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\CAdvanced\MetaData\obj\Debug\MetaData.Form1.resources
+E:\Projects\Learning\CAdvanced\MetaData\obj\Debug\MetaData.Properties.Resources.resources
+E:\Projects\Learning\CAdvanced\MetaData\obj\Debug\MetaData.csproj.GenerateResource.Cache
+E:\Projects\Learning\CAdvanced\MetaData\obj\Debug\MetaData.exe
+E:\Projects\Learning\CAdvanced\MetaData\obj\Debug\MetaData.pdb
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\bin\Debug\MetaData.exe.config
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\obj\Debug\MetaData.exe
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\obj\Debug\MetaData.pdb
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\bin\Debug\MetaData.exe
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\bin\Debug\MetaData.pdb
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\obj\Debug\MetaData.csprojResolveAssemblyReference.cache
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\obj\Debug\MetaData.Form1.resources
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\obj\Debug\MetaData.Properties.Resources.resources
+E:\Work Projects\Learning Lab\CAdvanced\MetaData\obj\Debug\MetaData.csproj.GenerateResource.Cache

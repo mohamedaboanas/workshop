@@ -1,0 +1,10 @@
+E:\Projects\Learning\DBFirst\DBFirst\bin\Debug\DBFirst.exe.config
+E:\Projects\Learning\DBFirst\DBFirst\bin\Debug\DBFirst.exe
+E:\Projects\Learning\DBFirst\DBFirst\bin\Debug\DBFirst.pdb
+E:\Projects\Learning\DBFirst\DBFirst\bin\Debug\EntityFramework.dll
+E:\Projects\Learning\DBFirst\DBFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\Learning\DBFirst\DBFirst\bin\Debug\EntityFramework.xml
+E:\Projects\Learning\DBFirst\DBFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\Learning\DBFirst\DBFirst\obj\Debug\DBFirst.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\DBFirst\DBFirst\obj\Debug\DBFirst.exe
+E:\Projects\Learning\DBFirst\DBFirst\obj\Debug\DBFirst.pdb

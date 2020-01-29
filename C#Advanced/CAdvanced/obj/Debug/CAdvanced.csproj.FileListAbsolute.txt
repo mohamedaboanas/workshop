@@ -1,0 +1,12 @@
+E:\Projects\Learning\CAdvanced\CAdvanced\bin\Debug\CAdvanced.exe.config
+E:\Projects\Learning\CAdvanced\CAdvanced\bin\Debug\CAdvanced.exe
+E:\Projects\Learning\CAdvanced\CAdvanced\bin\Debug\CAdvanced.pdb
+E:\Projects\Learning\CAdvanced\CAdvanced\obj\Debug\CAdvanced.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\CAdvanced\CAdvanced\obj\Debug\CAdvanced.exe
+E:\Projects\Learning\CAdvanced\CAdvanced\obj\Debug\CAdvanced.pdb
+E:\Work Projects\Learning Lab\CAdvanced\CAdvanced\bin\Debug\CAdvanced.exe.config
+E:\Work Projects\Learning Lab\CAdvanced\CAdvanced\bin\Debug\CAdvanced.exe
+E:\Work Projects\Learning Lab\CAdvanced\CAdvanced\bin\Debug\CAdvanced.pdb
+E:\Work Projects\Learning Lab\CAdvanced\CAdvanced\obj\Debug\CAdvanced.csprojResolveAssemblyReference.cache
+E:\Work Projects\Learning Lab\CAdvanced\CAdvanced\obj\Debug\CAdvanced.exe
+E:\Work Projects\Learning Lab\CAdvanced\CAdvanced\obj\Debug\CAdvanced.pdb

@@ -1,0 +1,16 @@
+E:\Projects\Learning\CAdvanced\Delegate\bin\Debug\Delegate.exe.config
+E:\Projects\Learning\CAdvanced\Delegate\bin\Debug\Delegate.exe
+E:\Projects\Learning\CAdvanced\Delegate\bin\Debug\Delegate.pdb
+E:\Projects\Learning\CAdvanced\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\CAdvanced\Delegate\obj\Debug\Delegate.exe
+E:\Projects\Learning\CAdvanced\Delegate\obj\Debug\Delegate.pdb
+E:\Projects\Learning\CAdvanced\Delegate\bin\Debug\CAdvanced.exe
+E:\Projects\Learning\CAdvanced\Delegate\bin\Debug\CAdvanced.pdb
+E:\Work Projects\Learning Lab\CAdvanced\Delegate\bin\Debug\Delegate.exe.config
+E:\Work Projects\Learning Lab\CAdvanced\Delegate\bin\Debug\Delegate.exe
+E:\Work Projects\Learning Lab\CAdvanced\Delegate\bin\Debug\Delegate.pdb
+E:\Work Projects\Learning Lab\CAdvanced\Delegate\bin\Debug\CAdvanced.exe
+E:\Work Projects\Learning Lab\CAdvanced\Delegate\bin\Debug\CAdvanced.pdb
+E:\Work Projects\Learning Lab\CAdvanced\Delegate\obj\Debug\Delegate.csprojResolveAssemblyReference.cache
+E:\Work Projects\Learning Lab\CAdvanced\Delegate\obj\Debug\Delegate.exe
+E:\Work Projects\Learning Lab\CAdvanced\Delegate\obj\Debug\Delegate.pdb

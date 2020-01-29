@@ -1,0 +1,5 @@
+E:\Work Projects\Learning Lab\CAdvanced\Reflactor\bin\Debug\Reflactor.dll
+E:\Work Projects\Learning Lab\CAdvanced\Reflactor\bin\Debug\Reflactor.pdb
+E:\Work Projects\Learning Lab\CAdvanced\Reflactor\obj\Debug\Reflactor.csprojResolveAssemblyReference.cache
+E:\Work Projects\Learning Lab\CAdvanced\Reflactor\obj\Debug\Reflactor.dll
+E:\Work Projects\Learning Lab\CAdvanced\Reflactor\obj\Debug\Reflactor.pdb

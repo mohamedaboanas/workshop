@@ -1,0 +1,1 @@
+E:\Projects\Learning\C#Fundamentals\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config

@@ -1,0 +1,6 @@
+E:\Projects\Learning\C#Fundamentals\Testability\Testability\bin\Debug\Testability.exe.config
+E:\Projects\Learning\C#Fundamentals\Testability\Testability\obj\Debug\Testability.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\C#Fundamentals\Testability\Testability\bin\Debug\Testability.exe
+E:\Projects\Learning\C#Fundamentals\Testability\Testability\bin\Debug\Testability.pdb
+E:\Projects\Learning\C#Fundamentals\Testability\Testability\obj\Debug\Testability.exe
+E:\Projects\Learning\C#Fundamentals\Testability\Testability\obj\Debug\Testability.pdb

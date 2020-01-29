@@ -1,0 +1,6 @@
+E:\Projects\Learning\C#Fundamentals\Workflow Engine Exercise\Workflow Engine Exercise\bin\Debug\Workflow Engine Exercise.exe.config
+E:\Projects\Learning\C#Fundamentals\Workflow Engine Exercise\Workflow Engine Exercise\bin\Debug\Workflow Engine Exercise.exe
+E:\Projects\Learning\C#Fundamentals\Workflow Engine Exercise\Workflow Engine Exercise\bin\Debug\Workflow Engine Exercise.pdb
+E:\Projects\Learning\C#Fundamentals\Workflow Engine Exercise\Workflow Engine Exercise\obj\Debug\Workflow Engine Exercise.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\C#Fundamentals\Workflow Engine Exercise\Workflow Engine Exercise\obj\Debug\Workflow Engine Exercise.exe
+E:\Projects\Learning\C#Fundamentals\Workflow Engine Exercise\Workflow Engine Exercise\obj\Debug\Workflow Engine Exercise.pdb

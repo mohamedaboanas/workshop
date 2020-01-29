@@ -1,0 +1,11 @@
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\bin\Debug\RefLab.exe.config
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\bin\Debug\RefLab.exe
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\bin\Debug\RefLab.pdb
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\bin\Debug\Reflactor.dll
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\bin\Debug\Reflactor.pdb
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\obj\Debug\RefLab.csprojResolveAssemblyReference.cache
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\obj\Debug\RefLab.Form1.resources
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\obj\Debug\RefLab.Properties.Resources.resources
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\obj\Debug\RefLab.csproj.GenerateResource.Cache
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\obj\Debug\RefLab.exe
+E:\Work Projects\Learning Lab\CAdvanced\RefLab\obj\Debug\RefLab.pdb

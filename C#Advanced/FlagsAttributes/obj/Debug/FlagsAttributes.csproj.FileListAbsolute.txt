@@ -1,0 +1,12 @@
+E:\Projects\Learning\CAdvanced\FlagsAttributes\bin\Debug\FlagsAttributes.exe.config
+E:\Projects\Learning\CAdvanced\FlagsAttributes\bin\Debug\FlagsAttributes.exe
+E:\Projects\Learning\CAdvanced\FlagsAttributes\bin\Debug\FlagsAttributes.pdb
+E:\Projects\Learning\CAdvanced\FlagsAttributes\obj\Debug\FlagsAttributes.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\CAdvanced\FlagsAttributes\obj\Debug\FlagsAttributes.exe
+E:\Projects\Learning\CAdvanced\FlagsAttributes\obj\Debug\FlagsAttributes.pdb
+E:\Work Projects\Learning Lab\CAdvanced\FlagsAttributes\bin\Debug\FlagsAttributes.exe.config
+E:\Work Projects\Learning Lab\CAdvanced\FlagsAttributes\bin\Debug\FlagsAttributes.exe
+E:\Work Projects\Learning Lab\CAdvanced\FlagsAttributes\bin\Debug\FlagsAttributes.pdb
+E:\Work Projects\Learning Lab\CAdvanced\FlagsAttributes\obj\Debug\FlagsAttributes.csprojResolveAssemblyReference.cache
+E:\Work Projects\Learning Lab\CAdvanced\FlagsAttributes\obj\Debug\FlagsAttributes.exe
+E:\Work Projects\Learning Lab\CAdvanced\FlagsAttributes\obj\Debug\FlagsAttributes.pdb

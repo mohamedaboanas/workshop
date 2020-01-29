@@ -1,0 +1,5 @@
+E:\Projects\Learning\C#Fundamentals\HelloWorld\Amazon\bin\Debug\Amazon.dll
+E:\Projects\Learning\C#Fundamentals\HelloWorld\Amazon\bin\Debug\Amazon.pdb
+E:\Projects\Learning\C#Fundamentals\HelloWorld\Amazon\obj\Debug\Amazon.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\C#Fundamentals\HelloWorld\Amazon\obj\Debug\Amazon.dll
+E:\Projects\Learning\C#Fundamentals\HelloWorld\Amazon\obj\Debug\Amazon.pdb

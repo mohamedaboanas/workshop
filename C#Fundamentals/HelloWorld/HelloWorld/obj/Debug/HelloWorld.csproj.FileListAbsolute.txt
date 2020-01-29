@@ -1,0 +1,8 @@
+E:\Projects\Learning\C#Fundamentals\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Projects\Learning\C#Fundamentals\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Projects\Learning\C#Fundamentals\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Projects\Learning\C#Fundamentals\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Projects\Learning\C#Fundamentals\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Projects\Learning\C#Fundamentals\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Projects\Learning\C#Fundamentals\HelloWorld\HelloWorld\bin\Debug\Amazon.dll
+E:\Projects\Learning\C#Fundamentals\HelloWorld\HelloWorld\bin\Debug\Amazon.pdb
